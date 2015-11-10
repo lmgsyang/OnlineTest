@@ -8,7 +8,7 @@
          
       
         <property name="hibernate.connection.driver_class">org.gjt.mm.mysql.Driver</property>  
-        <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/hibernate</property>  
+        <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/onlinetest</property>  
         <property name="hibernate.connection.username">root</property>  
         <property name="hibernate.connection.password">shuai551</property>  
         <!-- JDBC connection pool (use the built-in) -->
